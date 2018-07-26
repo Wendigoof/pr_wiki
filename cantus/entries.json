@@ -1,0 +1,36 @@
+{
+	"#singularite_quantique": {
+		"title": "Singularité quantique",
+		"paragraphs": [
+			"<p>Terme initialement introduit par le neuro-cognitien _____ pour décrire le procédé unique qui permet au syndrome Gray de se manifester. Il est officiellement admis en 1993.</p>"
+		]
+	},
+	"#cortex_parietal": {
+		"title": "Cortex pariétal",
+		"paragraphs": [
+			"<p>Le lobe pariétal (ou cortex pariétal) est une région du cerveau des vertébrés. Il est situé à l'arrière du lobe frontal, au-dessus des lobes temporal et occipital.</p>",
+			"<p>Il joue un rôle important dans l'intégration des informations issues des différentes modalités sensorielles (vision, toucher, audition). Cette région du cerveau est impliquée dans la perception de l'espace et dans l'attention et, plus particulièrement, dans le système visuel et dans le contrôle visuo-moteur des mouvements.</p>"
+		]
+	},
+	"#cortex_occipital": {
+		"title": "Cortex occipital",
+		"paragraphs": [
+			"<p>Le lobe occipital (ou cortex occipital) est une région du cerveau des vertébrés. Il est situé à l'arrière de la tête, à côté du lobe pariétal et du lobe temporal.</p>",
+			"<p>Centre visuel, il permet la reconnaissance des orientations et des contours des images. Le cortex consacré à l'analyse visuelle se prolonge jusqu'aux lobes pariétal et temporal.</p>"
+		]
+	},
+	"#systeme_hedonique": {
+		"title": "Système hédonique",
+		"paragraphs": [
+			"<p>Aussi appelé système de récompense ou de renforcement, le système hédonique est un réseau de structures cérébrales qui permet l'apprentissage des réactions émotionnelles, des actions motrices et des comportements indispensables à la survie de l'individu.</p>",
+			"<p>Les principaux neuromédiateurs impliqués dans ce système sont la dopamine, pour la composante motivationnelle, ainsi que les opioïdes endogènes et les cannabinoïdes endogènes, pour la composante affective.</p>"
+		]
+	},
+	"#potentiel_action": {
+		"title": "Potentiel d'action",
+		"paragraphs": [
+			"<p>Le potentiel d'action, autrefois et encore parfois appelé influx nerveux, est un évènement court durant lequel le potentiel électrique d'une cellule (notamment les neurones) augmente puis chute rapidement.</p>",
+			"<p>Le potentiel d'action dure entre 1 et 2 millisecondes.</p>"
+		]
+	}
+}
